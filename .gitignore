@@ -1,0 +1,17 @@
+# Pipenv files
+Pipfile.lock
+
+__pycache__/
+
+# Virtual environment (if using --venv in project dir)
+.venv/
+
+# Pyenv
+# .python-version
+
+
+client_secret*
+token.json
+site.db
+db.sqlite3
+.env
